@@ -7,9 +7,13 @@ int main ( void )
 }
 
 
-void test_func_1( void )
+int test_func_2( void )
 {
-    return;
+    int abc;
+    abc = 0;
+ 
+    return abc;
 }
+
 
 
